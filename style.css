@@ -1,4 +1,8 @@
 /********************=======================||RAHUL||====================**********************/
+@font-face {
+	font-family: 'pt sans';
+	src: url('https://github.com/rojkov/ttf-paratype-sans/blob/master/PTS75F.ttf') format('truetype'), src: url('https://github.com/rojkov/ttf-paratype-sans/blob/master/PTS56F.ttf') format('truetype'), src: url('https://github.com/rojkov/ttf-paratype-sans/blob/master/PTS55F.ttf') format('truetype'),
+}
 
 * {
 	margin: 0
