@@ -803,3 +803,6 @@ span.higlight {
 	float: left;
 	margin-top: 18px;
 }
+.footer_two_column_right p:hover {
+	color: #fff;
+}
